@@ -3,7 +3,7 @@ My bucket list for 2016
 
 * Learn Caffe and solve a cool problem
 * Start a blog about Statistics - A/B, PEQ
-* Create a Shiny dashboard that will be useful
+* Create a Shiny dashboard for A/B testing
 * Finish all Arduino starter projects
 * Learn howto use GTest
 * Start developing using TDD
