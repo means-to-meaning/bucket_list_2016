@@ -9,6 +9,7 @@ My bucket list for 2016
 * Start developing using TDD
 * Complete the eye gaze project
 * Learn howto create game assets using Blender
+* Finish all modules from nodeschool.io
 * Read Sutton and Barto on Reinforcement Learning
 * Read Skienna on Algorithm Design
 * Read Meyers Effective Modern C++
