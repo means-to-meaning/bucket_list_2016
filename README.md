@@ -12,5 +12,6 @@ My bucket list for 2016
 * Finish all modules from nodeschool.io
 * Read Sutton and Barto on Reinforcement Learning
 * Read Skienna on Algorithm Design
-* Read Meyers Effective Modern C++
+* Read Meyers on Effective Modern C++
+* Read Manning on C++ Concurrency 
 * Read Zak on Optimization
